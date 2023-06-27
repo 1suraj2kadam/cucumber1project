@@ -7,6 +7,6 @@ public class sample {
 		}
 		
 		public void sure() {
-			System.out.println(i);
+			System.out.println(i+i);
 		}
 }
