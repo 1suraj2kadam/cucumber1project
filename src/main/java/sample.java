@@ -2,8 +2,8 @@
 public class sample {
 		int i=2;
 		public static void main(String[] args) {
-			sample t=new sample();
-			t.sure();
+			sample th=new sample();
+			th.sure();
 		}
 		
 		public void sure() {
